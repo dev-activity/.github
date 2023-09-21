@@ -1,5 +1,15 @@
 ## Hi there 👋
+Useful Resources
+- Help Center
+- Gamification for Open Source Initiative
+- devActivity Blog
 
+Visit our Community Discussions for help:
+
+- General
+- Ideas/Feature Requests
+- Qustions & Answers
+- Bug Report
 <!--
 
 **Here are some ideas to get you started:**
