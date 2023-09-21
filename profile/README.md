@@ -1,6 +1,7 @@
 ## 👋 Hi there, we're devActivity team!
 We're proudly working on devActivity app for GitHub to **Gamify**, **Qualify** & **Quantify** your software development journey.
-Effortlessly implement:
+
+[**Install app**](https://github.com/apps/dev-activity) to effortlessly implement:
 - 🏆 XP, Levels, Achievements, Leaderboard based on Contributions
 - 🪪 Automated Performance Review
 - 🎗 Peer Recognition Awards
@@ -12,7 +13,7 @@ Additionally for Public Repos (open source):
 - 💻 Public Dashboard
 - 📑 Contributors and Discussions Analytics
 
-Useful Resources
+See also:
 - Help Center
 - Gamification for Open Source Initiative
 - devActivity Blog
