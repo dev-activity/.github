@@ -1,4 +1,4 @@
-## 👋 Hi there, we're devActivity team!
+## 👋 Hi there!
 We're proudly working on devActivity app for GitHub to **Gamify**, **Qualify** & **Quantify** your software development journey.
 
 [**Install app**](https://github.com/apps/dev-activity) to effortlessly implement:
@@ -14,6 +14,7 @@ Additionally for Public Repos (open source):
 - 📑 Contributors and Discussions Analytics
 
 See also:
+- [Live Demo](https://demo.devactivity.com/?ref=gh_org_profile)
 - [Help Center](https://devactivity.com/help)
 - [Gamification for Open Source Initiative](https://g4os.devactivity.com)
 - devActivity [Blog](https://devactivity.com/posts)
